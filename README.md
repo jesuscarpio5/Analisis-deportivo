@@ -1,2 +1,2 @@
 # Analisis-deportivo
-Aqui son las pruebas de mis proyectos en privado 
+Aqui son las pruebas de mis proyectos
