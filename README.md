@@ -1,6 +1,7 @@
 # Analisis-deportivo
 
-## PRIMER PROYECTO DE PRUEBA: Motor de similitud de jugadores: Mundial 2018
+## PRIMER PROYECTO DE PRUEBA: 
+### Motor de similitud de jugadores: Mundial 2018
 
 Proyecto de análisis de datos deportivos construido en Python con los datos abiertos de **StatsBomb** (64 partidos del Mundial de Rusia 2018). Dado un futbolista, el modelo calcula las métricas normalizadas por 90 minutos, filtra por rol y devuelve los diez jugadores con un perfil estadístico más parecido mediante similitud coseno.
 
